@@ -1,0 +1,26 @@
+{
+  "name": "technicalsignals",
+  "version": "1.0.0",
+  "description": "git tracked readme",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Muhammad-1990/technical-signals.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Muhammad-1990/technical-signals/issues"
+  },
+  "homepage": "https://github.com/Muhammad-1990/technical-signals#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^4.0.0",
+    "technicalindicators": "^3.1.0",
+    "websocket": "^1.0.33"
+  }
+}
